@@ -1,3 +1,15 @@
+# Swift / Xcode
+.build/
+.swiftpm/
+*.xcodeproj
+xcuserdata/
+*.xcworkspace/xcuserdata/
+.DS_Store
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
